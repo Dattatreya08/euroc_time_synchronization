@@ -61,14 +61,3 @@ docker pull ghcr.io/dattatreya08/euroc_time_synchronization:latest
 Nerella Venkatapathi Dattatreya
 ```
 
----
-
-After saving, push it:
-
-```bash
-git add README.md
-git commit -m "Update README.md"
-git push
-```
-
-Would you like any changes to this README?
