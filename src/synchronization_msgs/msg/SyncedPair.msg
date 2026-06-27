@@ -1,0 +1,6 @@
+std_msgs/Header header
+sensor_msgs/Image image
+sensor_msgs/Imu imu
+builtin_interfaces/Time camera_timestamp
+builtin_interfaces/Time imu_timestamp
+float64 time_difference
